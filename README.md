@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm <a href="www.linkedin.com/in/rajeev-ranjan-singh-rrs" target="_blank">Rajeev Ranjan Singh</a> 👋
+# Hi there, I'm <a href="#" target="_blank">Rajeev Ranjan Singh</a> 👋
 
 <!-- Add a brief introduction about yourself -->
 I'm a passionate and enthusiastic engineer with a keen interest in web development, Python programming, data science and machine learning. I love exploring new technologies and finding creative solutions to complex problems.
@@ -40,7 +40,7 @@ Feel free to ask me anything related to the following:
 
 ## 📫 How to Reach Me
 
-You can connect with me on LinkedIn [here](www.linkedin.com/in/rajeev-ranjan-singh-rrs). Feel free to drop me an email at rajeev7605@example.com for any inquiries or collaboration opportunities.
+You can connect with me on LinkedIn:- www.linkedin.com/in/rajeev-ranjan-singh-rrs . Feel free to drop me an email at rajeev7605@example.com for any inquiries or collaboration opportunities.
 
 ## 😄 Pronouns
 
